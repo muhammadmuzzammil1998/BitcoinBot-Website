@@ -48,11 +48,11 @@ button:active{
     box-shadow: 0px 0px 100px 10px #e7bbf8;
     cursor: pointer;
 }
-#container a{
+#me{
     text-decoration: none;
     transition: all .5s;
 }
-#container a:hover{
+#me:hover{
     cursor: pointer;
     padding: .5%;
     color: white;
